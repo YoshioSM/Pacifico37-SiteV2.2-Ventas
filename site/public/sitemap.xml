@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.pacifico37.site/</loc>
+    <lastmod>2025-09-11T20:20:34+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://www.pacifico37.site/About</loc>
+    <lastmod>2025-09-11T20:20:34+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://www.pacifico37.site/Contact</loc>
+    <lastmod>2025-09-11T20:20:34+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Gallery -->
+  <url>
+    <loc>https://www.pacifico37.site/Gallery</loc>
+    <lastmod>2025-09-11T20:20:34+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
