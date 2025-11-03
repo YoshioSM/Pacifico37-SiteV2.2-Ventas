@@ -68,7 +68,7 @@ export default function Footer() {
 
   const contactInfo = {
     address: "Oceano Pacífico 37, Villas Terrasol, Aeropuerto, 39893 Acapulco de Juárez, Gro.",
-    phone: "+527442584848",
+    phone: "+527441584457",
     email: "info@pacifico37.site",
   };
 
