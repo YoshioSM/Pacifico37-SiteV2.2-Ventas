@@ -24,7 +24,7 @@ export default function Footer() {
 
   const socialMedia = [
     {
-      href: 'https://facebook.com/pacifico37',
+      href: '',
       name: 'Facebook',
       icon: (
         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -33,11 +33,11 @@ export default function Footer() {
       )
     },
     {
-      href: 'https://instagram.com/pacifico37',
+      href: '',
       name: 'Instagram',
       icon: (
    <svg
-  xmlns="http://www.w3.org/2000/svg"
+  xmlns=""
   className="w-5 h-5"
   fill="currentColor"
   viewBox="0 0 24 24"
@@ -56,7 +56,7 @@ export default function Footer() {
       )
     },
     {
-      href: 'https://wa.me/7442584848',
+      href: 'https://wa.me/7441584457',
       name: 'WhatsApp',
       icon: (
         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
