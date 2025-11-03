@@ -483,7 +483,7 @@ const {
             </button>
           </form>
           <div className="mt-3">
-            <a href="https://wa.me/7441584457" target="_blank">
+            <a href="https://wa.me/7442584848" target="_blank">
               <button className="w-full text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                 Whatsapp
               </button>
